@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+}
+
+group 'restassured'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    testImplementation "io.rest-assured:rest-assured:4.1.2"
+    compile 'com.google.code.gson:gson:2.2.+'
+    compile group: 'com.googlecode.json-simple', name: 'json-simple', version: '1.1'
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.141.59'
+    testCompile group: 'org.testng', name: 'testng', version: '6.14.3'
+    compile group: 'commons-io', name: 'commons-io', version: '2.6'
+    compile group: 'org.apache.poi', name: 'poi-ooxml', version: '4.0.1'
+    implementation 'org.testng:testng:6.9.6'
+
+}
+test { 
+    useTestNG()
+}
