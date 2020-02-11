@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SpotifyCRUDTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-10T13:03:39" hostname="admin1-HP-EliteBook-Folio-9480m" time="9.779">
+  <properties/>
+  <testcase name="givenApiUnderExecution_WhenPassedTokenAndOtherDetails_ShouldPerformCRUDOperations" classname="SpotifyCRUDTest" time="9.779"/>
+  <system-out><![CDATA[checking userId of current user = iwcrgi2n7krzrquhkf5g3jbvh
+existing playlist count is = 61
+make new playlist and retrieve playlistId = 2O69XB3zuIYBo3pbuXLLBE
+updated playlist count is = 62
+updated details of playlistId = 2O69XB3zuIYBo3pbuXLLBE
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

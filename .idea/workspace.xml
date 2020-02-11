@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="330133a4-8ce5-4e97-b362-93e654addd61" name="Default Changelist" comment="" />
+    <list default="true" id="330133a4-8ce5-4e97-b362-93e654addd61" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/NewsHeadingWithmaximumPoints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/PowerCalculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/PowerCalculateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/SpotifyRestAssured.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/SpotifyRestAssured.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-SpotifyRestAssured.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NewsHeadingWithmaximumPoints.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PowerCalculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CalculatePower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PowerCalculateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatePowerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SpotifyRestAssured.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SpotifyCRUDTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -34,10 +65,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SpotifyRestAssured.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SpotifyCRUDTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="88">
+              <caret line="27" column="74" selection-start-line="27" selection-start-column="74" selection-end-line="27" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,15 +77,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PowerCalculate.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/CalculatePower.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/PowerCalculateTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CalculatePowerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="555">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,10 +98,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/NewsHeadingWithmaximumPoints.java">
+        <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-973">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="360">
+              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NewsHeadingWithMaximumPoints.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1605">
+              <caret line="112" column="1" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/NewsHeadingTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -90,17 +149,23 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/NewsWithMaximumPoints.java" />
         <option value="$PROJECT_DIR$/src/test/java/NewsHeadingWithmaximumPoints.java" />
-        <option value="$PROJECT_DIR$/src/test/java/PowerCalculateTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/NewsHeadingWithmaximumPoints.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/PowerCalculate.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NewsheadingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NewsHeadingWithmaximumPoints.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PowerCalculateTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NewsHeadingsFor120News.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NewsHeadingTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NewsHeadingTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/SpotifyRestAssured.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SpotifyCRUDTest.java" />
       </list>
     </option>
   </component>
@@ -116,8 +181,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,6 +233,7 @@
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -193,13 +259,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.PowerCalculateTest">
-    <configuration name="NewsHeadingWithmaximumPoints" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.SpotifyCRUDTest">
+    <configuration name="CalculatePowerTest.givenNegativeBaseAndNegativeRaised_ShouldReturn0Result" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;NewsHeadingWithmaximumPoints&quot;" />
+        <option name="scriptParameters" value="--tests &quot;CalculatePowerTest.givenNegativeBaseAndNegativeRaised_ShouldReturn0Result&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -214,12 +280,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="NewsHeadingWithmaximumPoints.name" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="NewsHeadingTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;NewsHeadingWithmaximumPoints.name&quot;" />
+        <option name="scriptParameters" value="--tests &quot;NewsHeadingTests&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -234,12 +300,32 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PowerCalculateTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SpotifyCRUDTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;PowerCalculateTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;SpotifyCRUDTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SpotifyCRUDTest.givenApiUnderExecution_WhenPassedTokenAndOtherDetails_ShouldPerformCRUDOperations" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SpotifyCRUDTest.givenApiUnderExecution_WhenPassedTokenAndOtherDetails_ShouldPerformCRUDOperations&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -274,80 +360,13 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SpotifyRestAssured.givenApiUnderExecution_WhenPassedTokenToApi_ShouldGiveTheCurrentUsersProfile" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;SpotifyRestAssured.givenApiUnderExecution_WhenPassedTokenToApi_ShouldGiveTheCurrentUsersProfile&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="DemoProjects" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="DemoProjects" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.SpotifyCRUDTest" />
+        <item itemvalue="Gradle.CalculatePowerTest.givenNegativeBaseAndNegativeRaised_ShouldReturn0Result" />
+        <item itemvalue="Gradle.SpotifyCRUDTest.givenApiUnderExecution_WhenPassedTokenAndOtherDetails_ShouldPerformCRUDOperations" />
         <item itemvalue="Gradle.SpotifyRestAssured" />
-        <item itemvalue="Gradle.SpotifyRestAssured.givenApiUnderExecution_WhenPassedTokenToApi_ShouldGiveTheCurrentUsersProfile" />
-        <item itemvalue="Gradle.NewsHeadingWithmaximumPoints" />
-        <item itemvalue="Gradle.PowerCalculateTest" />
-        <item itemvalue="Gradle.NewsHeadingWithmaximumPoints.name" />
+        <item itemvalue="Gradle.NewsHeadingTests" />
       </list>
     </recent_temporary>
   </component>
@@ -365,41 +384,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PowerCalculateTest - 2020.02.09 at 15h 48m 59s.xml">
-      <configuration name="PowerCalculateTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="SpotifyCRUDTest - 2020.02.10 at 14h 57m 32s.xml">
+      <configuration name="SpotifyCRUDTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="NewsHeadingWithmaximumPoints - 2020.02.09 at 15h 49m 58s.xml">
-      <configuration name="NewsHeadingWithmaximumPoints" configurationId="GradleRunConfiguration" />
+    <history-entry file="SpotifyCRUDTest - 2020.02.10 at 14h 57m 55s.xml">
+      <configuration name="SpotifyCRUDTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="SpotifyRestAssured - 2020.02.09 at 15h 52m 02s.xml">
-      <configuration name="SpotifyRestAssured" configurationId="GradleRunConfiguration" />
+    <history-entry file="SpotifyCRUDTest - 2020.02.10 at 14h 58m 55s.xml">
+      <configuration name="SpotifyCRUDTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="SpotifyRestAssured - 2020.02.09 at 15h 52m 45s.xml">
-      <configuration name="SpotifyRestAssured" configurationId="GradleRunConfiguration" />
+    <history-entry file="SpotifyCRUDTest - 2020.02.10 at 14h 59m 12s.xml">
+      <configuration name="SpotifyCRUDTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="SpotifyRestAssured - 2020.02.09 at 15h 54m 13s.xml">
-      <configuration name="SpotifyRestAssured" configurationId="GradleRunConfiguration" />
+    <history-entry file="CalculatePowerTest_givenNegativeBaseAndNegativeRaised_ShouldReturn0Result - 2020.02.10 at 15h 10m 18s.xml">
+      <configuration name="CalculatePowerTest.givenNegativeBaseAndNegativeRaised_ShouldReturn0Result" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="SpotifyRestAssured - 2020.02.09 at 15h 54m 58s.xml">
-      <configuration name="SpotifyRestAssured" configurationId="GradleRunConfiguration" />
+    <history-entry file="CalculatePowerTest_givenNegativeBaseAndNegativeRaised_ShouldReturn0Result - 2020.02.10 at 15h 20m 15s.xml">
+      <configuration name="CalculatePowerTest.givenNegativeBaseAndNegativeRaised_ShouldReturn0Result" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="SpotifyRestAssured_givenApiUnderExecution_WhenPassedTokenToApi_ShouldGiveTheCurrentUsersProfile - 2020.02.09 at 15h 55m 35s.xml">
-      <configuration name="SpotifyRestAssured.givenApiUnderExecution_WhenPassedTokenToApi_ShouldGiveTheCurrentUsersProfile" configurationId="GradleRunConfiguration" />
+    <history-entry file="SpotifyCRUDTest - 2020.02.10 at 15h 48m 18s.xml">
+      <configuration name="SpotifyCRUDTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="SpotifyRestAssured_givenApiUnderExecution_WhenPassedTokenToApi_ShouldGiveTheCurrentUsersProfile - 2020.02.09 at 15h 57m 06s.xml">
-      <configuration name="SpotifyRestAssured.givenApiUnderExecution_WhenPassedTokenToApi_ShouldGiveTheCurrentUsersProfile" configurationId="GradleRunConfiguration" />
+    <history-entry file="SpotifyCRUDTest - 2020.02.10 at 15h 48m 44s.xml">
+      <configuration name="SpotifyCRUDTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="SpotifyRestAssured_givenApiUnderExecution_WhenPassedTokenToApi_ShouldGiveTheCurrentUsersProfile - 2020.02.09 at 15h 58m 11s.xml">
-      <configuration name="SpotifyRestAssured.givenApiUnderExecution_WhenPassedTokenToApi_ShouldGiveTheCurrentUsersProfile" configurationId="GradleRunConfiguration" />
+    <history-entry file="SpotifyCRUDTest - 2020.02.10 at 16h 01m 31s.xml">
+      <configuration name="SpotifyCRUDTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="SpotifyRestAssured - 2020.02.09 at 15h 59m 32s.xml">
-      <configuration name="SpotifyRestAssured" configurationId="GradleRunConfiguration" />
+    <history-entry file="SpotifyCRUDTest - 2020.02.10 at 18h 31m 59s.xml">
+      <configuration name="SpotifyCRUDTest" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.254589" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2585794" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -409,13 +428,13 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.1525974" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4788961" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.048859935" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.7296417" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.048859935" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32954547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -428,79 +447,102 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Learn" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.24980047" />
-      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32954547" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="3" weight="0.32954547" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32954547" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Gradle" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/SpotifyRestAssured.java</url>
-          <line>35</line>
+          <url>file://$PROJECT_DIR$/src/test/java/SpotifyCRUDTest.java</url>
+          <line>29</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/SpotifyRestAssured.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/SpotifyRestAssured.java</url>
-          <line>55</line>
+          <url>file://$PROJECT_DIR$/src/test/java/SpotifyCRUDTest.java</url>
+          <line>45</line>
           <properties />
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/CalculatePowerTest.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/CalculatePowerTest.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/CalculatePowerTest.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/SpotifyCRUDTest.java</url>
+          <line>8</line>
+          <properties field="tokenValue" class="SpotifyCRUDTest" />
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/NewsWithMaximumPoints.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/NewsWithMaximumPoints.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NewsHeadingWithmaximumPoints.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/SpotifyCRUDTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="22" selection-end-line="115" />
+        <state relative-caret-position="88">
+          <caret line="27" column="74" selection-start-line="27" selection-start-column="74" selection-end-line="27" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2248#2256#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/NewsHeadingWithmaximumPoints.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CalculatePower.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="5" column="34" selection-start-line="5" selection-end-line="6" />
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CalculatePowerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
-            <element signature="e#2309#2317#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NewsHeadingWithMaximumPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1605">
+          <caret line="112" column="1" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NewsHeadingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -509,36 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NewsHeadingWithmaximumPoints.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-973">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PowerCalculate.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PowerCalculateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SpotifyRestAssured.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
